@@ -2,7 +2,7 @@
 
 <!-- ===================== HEADER ===================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=DevOps+%26+Cloud+Infrastructure+Engineer;Founder+%40+DgVerse;Building+the+trust+layer+for+credentials+%26+AI+agents;10%2B+years+shipping+production-grade+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=F97316&center=true&vCenter=true&width=800&height=45&lines=DevOps+%26+Cloud+Infrastructure+Engineer;Founder+%40+DgVerse+%C2%B7+Building+HelixID;Trust+layer+for+credentials+%26+AI+agents;10%2B+years+shipping+production-grade+systems" alt="Typing SVG" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 DevOps & cloud infrastructure engineer with **10+ years** building scalable, reliable, and secure production systems. Now founder-building the **trust layer for digital credentials and AI agents** — designing verifiable, scoped, and auditable identity for humans, organizations, and autonomous agents.
 
-I operate at the intersection of **DevOps · Web3 infrastructure · decentralized identity**, with a strong bias toward practical, real-world implementations over hype. I think in system design, trade-offs, and business impact — architecture first, then execution.
+I operate at the intersection of **DevOps · Web3 infrastructure · decentralized identity**, with a strong bias toward practical, real-world implementations over hype. Architecture first, then execution — evaluated through system design, trade-offs, and business impact.
 
 ---
 
@@ -85,14 +85,22 @@ I operate at the intersection of **DevOps · Web3 infrastructure · decentralize
 
 ### 📊 GitHub Stats
 
+<!--
+  STATS_HOST: cards below use the shared instance (github-readme-stats.vercel.app),
+  which is rate-limited and can occasionally render as a broken "?".
+  PERMANENT FIX: self-host your own instance and replace the base URL on the two
+  <img> lines below with https://<your-instance>.vercel.app
+  Bump the &v=1 cache-buster when you switch hosts to clear GitHub's camo cache.
+-->
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jazeer888&show_icons=true&hide_border=true&count_private=true&title_color=F97316&icon_color=F97316&text_color=9BA1A6&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazeer888&layout=compact&hide_border=true&title_color=F97316&text_color=9BA1A6&bg_color=0D1117&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jazeer888&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400&v=1&title_color=F97316&icon_color=F97316&text_color=9BA1A6&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazeer888&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&v=1&title_color=F97316&text_color=9BA1A6&bg_color=0D1117" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jazeer888&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=9BA1A6&dates=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=F97316" />
+<img src="https://streak-stats.demolab.com/?user=jazeer888&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=9BA1A6&dates=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=F97316" />
 
 </div>
 
